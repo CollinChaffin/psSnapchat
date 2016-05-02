@@ -1,0 +1,2 @@
+# psSnapchat
+Snapchat Powershell Module
